@@ -2,3 +2,6 @@ body{font-family:-apple-system,blinkMacSystemFont,'Helvetica Neue','Segoe UI','H
 .timeline-Viewport::-webkit-scrollbar{overflow:hidden!important;width:7px!important;background-color:transparent!important}.timeline-Viewport::-webkit-scrollbar-button{display:none}.timeline-Viewport::-webkit-scrollbar-thumb{overflow:hidden!important;border-radius:10px!important;background-color:rgba(255,255,225,.7)!important}
 .timeline-Tweet:hover{background-color:rgba(255,255,255,.3)}.timeline-Header-subtitle{displa:none}
 .timeline-Body {border-top: 3px dotted rgba(255,255,255,.3);border-bottom: 3px dotted rgba(255,255,255,.3)}
+.timeline-Footer{display:none!important}
+.customisable:hover, .customisable:focus, .customisable:active, .customisable-highlight:hover, .customisable-highlight:focus, a:hover .customisable-highlight, a:focus .customisable-highlight{color: #f485a1}
+.timeline-ShowMoreButton--edge,.timeline-ShowMoreButton--edge:focus, .timeline-ShowMoreButton--edge,.timeline-ShowMoreButton--edge:hover {background-color: #rgba(255,255,255,.3);color: #fff;text-decoration: none}
