@@ -6,3 +6,5 @@ body{font-family:-apple-system,blinkMacSystemFont,'Helvetica Neue','Segoe UI','H
 .timeline-Footer{display:none!important}
 .customisable:hover, .customisable:focus, .customisable:active, .customisable-highlight:hover, .customisable-highlight:focus, a:hover .customisable-highlight, a:focus .customisable-highlight{color: #f485a1!important}
 .timeline-ShowMoreButton--edge,.timeline-ShowMoreButton--edge:focus, .timeline-ShowMoreButton--edge,.timeline-ShowMoreButton--edge:hover {background-color:rgba(255,255,255,.3);color: #fff;text-decoration: none}
+.timeline-Header-title{color:#7e4444}
+.timeline-Header-byline {font-size: 27px;line-height: 36px;color:#7e4444}
